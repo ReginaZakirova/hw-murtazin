@@ -1,0 +1,92 @@
+.header{
+    background-color: rgb(170, 163, 163);
+}
+.wrapper{
+    background-color: rgb(170, 163, 163);
+    max-width: 1250px;
+    margin: 0 auto;
+}
+.content_head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(170, 163, 163);
+}
+.logo_tm{
+    width: 50px;
+    height: 30px;
+}
+.title{
+    color:  black;
+    margin-right: 5px;
+    font-weight: 1000;
+}
+.main{
+    background-color: rgb(170, 163, 163);
+}
+.content_main{
+   display: flex;
+}
+.Pictureofme{
+    width: 360px;
+    display: flex;
+    padding-top: 15px;
+}
+.Pictureofme1{
+    max-width:40%;
+}
+.fio{
+    margin-left: 130px;
+    font-weight: 1000;
+    padding-top: 5px;
+    font-size: x-large;
+}
+.info_about{
+    margin-left: 40px;
+    font-weight: 1000;
+    font-size: x-large;
+    background-color: rgb(170, 163, 163);
+}
+.info_school{
+    margin-left: 40px;
+    font-weight: 1000;
+    font-size: x-large;
+}
+.info{
+    display: flex;
+    padding-top: 10px;
+}
+body{
+    background-color: rgb(170, 163, 163);
+}
+.imageshw3{
+    width: 140px;
+    height: 220px;
+}
+.imageshw31{
+    width: 500px;
+    height: 800px;
+}
+.imageshomework3{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.imageshomework31{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-top: 30px;
+}
+H1,H2,H3 {
+    line-height:normal;
+    font-size: 80%
+}
+
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+

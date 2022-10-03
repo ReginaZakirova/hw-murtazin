@@ -1,0 +1,48 @@
+@media (max-width: 768px) {
+    .wrapper{
+        max-width: 728px;
+    }
+    .Pictureofme {
+        width: 260px;
+        display: flex;
+        padding-top: 15px;
+    }
+    .imageshw31 {
+        width: 350px;
+        height: 460px;
+    }
+    H1,H2,H3{
+        font-size: 60%;
+    }
+}
+@media (max-width: 420px) {
+    .wrapper{
+        max-width: 380px;
+    }
+    .Pictureofme {
+        width: 100px;
+        display: flex;
+        padding-top: 15px;
+    }
+    .imageshw3 {
+        width: 97px;
+        height: 166px;
+        justify-content: space-around;
+    }
+    .imageshw31{
+        width: 170px;
+        height: 240px;
+    }
+    H1,H2,H3{
+        font-size: 20%;
+     }
+     H1{
+        padding:right 100px;
+     }
+     H2{
+        padding: right 60px;
+     }
+     .info_school {
+        max-width: 116px;
+     }
+}
